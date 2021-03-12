@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sec_face_1_5</name>
+   <tag></tag>
+   <elementGuidId>89dc3512-8fc0-44fa-aabe-2777381ab6bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='page_body']/descendant::div[@class='question_element'][2]/div/div/descendant::div[${num}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='page_body']/descendant::div[@class='question_element'][2]/div/div/descendant::div[${num}]</value>
+   </webElementProperties>
+</WebElementEntity>
